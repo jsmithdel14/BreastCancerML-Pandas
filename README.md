@@ -9,7 +9,7 @@ The purpose of writing this software was to learn more about machine learning. I
 
 ## Video Demo
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dYbyd4V4K3o)
 
 # Data Analysis Results
 
